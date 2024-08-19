@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.24;
 
-import "Token contract.sol"; // Assuming the Token contract is in the same directory
+import "Token.sol"; // Assuming the Token contract is in the same directory
 
 contract Bank {
     // Define a User struct to hold user profile information
